@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "Doctors appointment",
+      "day": "Decemeber 1st at 2: 30pm",
+      "reminder": true
+    },
+    {
+      "id": "2",
+      "text": "Meeting at school",
+      "day": "April 31st at 1: 00pm",
+      "reminder": false
+    },
+    {
+      "id": "3",
+      "text": "Shopping",
+      "day": "December 15th at 10: 30am",
+      "reminder": true
+    },
+    {
+      "id": 96529,
+      "text": "Go Fishing",
+      "day": "Tuesday 3rd at 3pm",
+      "reminder": true
+    },
+    {
+      "text": "meet Gabriel",
+      "day": "wednesday 30th at 8:00pm",
+      "reminder": false,
+      "id": 931713
+    },
+    {
+      "text": "Deploy Website",
+      "day": "saturday 16th at 4:00pm",
+      "reminder": true,
+      "id": 931714
+    }
+  ]
+}
