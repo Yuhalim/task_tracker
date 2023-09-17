@@ -86,27 +86,27 @@ export default{
     },
   },
   async created(){
-    this.tasks = await this.fetchtasks()
+    this.tasks = 
     
-  //   [{
-  //     id:1, 
-  //     text: 'doctors Appointment',
-  //     day: 'December 1st at 2: 30pm',
-  //     reminder: true,
-  //   },
-  //   {
-  //     id:2, 
-  //     text: 'Meeting at school',
-  //     day: 'april 31st at 1: 00pm',
-  //     reminder: true,
-  //   },
-  //   {
-  //     id: 3, 
-  //     text: 'shopping',
-  //     day: 'December 15th at 10: 30am',
-  //     reminder: false,
-  //   },
-  // ]
+    [{
+      id:1, 
+      text: 'doctors Appointment',
+      day: 'December 1st at 2: 30pm',
+      reminder: true,
+    },
+    {
+      id:2, 
+      text: 'Meeting at school',
+      day: 'april 31st at 1: 00pm',
+      reminder: true,
+    },
+    {
+      id: 3, 
+      text: 'shopping',
+      day: 'December 15th at 10: 30am',
+      reminder: false,
+    },
+  ]
   },
 }
 </script>
